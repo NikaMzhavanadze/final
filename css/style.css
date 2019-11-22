@@ -61,6 +61,10 @@ body {
 .nino-mtavruli{
   font-family: "BPG Nino Mtavruli Bold", sans-serif;
 }
+#resize-none{
+  resize: none;
+}
+
 .big{
   font-size: 40px;
 }
